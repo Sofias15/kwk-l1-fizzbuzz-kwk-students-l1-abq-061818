@@ -12,6 +12,6 @@ puts "fizzbuzz"
 end 
 end 
 
-fizzbuzz(64646278282939801998923848233221009377749483)
+fizzbuzz(4)
 
 
