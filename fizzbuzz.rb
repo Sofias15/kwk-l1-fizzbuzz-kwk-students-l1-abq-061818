@@ -1,6 +1,6 @@
 def fizzbuzz(number)
-if number%3==0
-puts "fizz"
+if number%3==0 
+  puts "fizz"
  end 
  
 elsif number%5==0
