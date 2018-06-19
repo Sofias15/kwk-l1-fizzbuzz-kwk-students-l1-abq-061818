@@ -1,4 +1,5 @@
 def fizzbuzz(number)
+  
 if number%15==0 
   puts "fizz"
  
