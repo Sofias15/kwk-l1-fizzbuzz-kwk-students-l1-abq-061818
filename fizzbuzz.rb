@@ -1,12 +1,12 @@
 def fizzbuzz(number)
-if number%3==0 
+if number%15==0 
   puts "fizz"
  end 
  
 elsif number%5==0
 puts "buzz"
 
-elsif number%15==0
+elsif number%3==0
 puts "fizzbuzz"
 end
 
