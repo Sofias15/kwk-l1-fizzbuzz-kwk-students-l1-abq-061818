@@ -5,6 +5,11 @@ if number%3==0
  
 elsif number%5==0
 puts "buzz"
-end 
-else
-end 
+
+elsif number%15==0
+puts "fizzbuzz"
+end
+
+fizzbuzz(67)
+
+
