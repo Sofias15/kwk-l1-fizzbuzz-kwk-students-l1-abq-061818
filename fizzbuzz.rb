@@ -1,5 +1,7 @@
 def fizzbuzz(number)
-  test: # %3==0
-  
+  if number%3==0
+    ""
+elsif number%5==0
+end 
   
 end 
